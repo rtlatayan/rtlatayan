@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rtlatayan
 - 👀 I’m a Frontend Developer and SuiteCommerce Developer
-- 🌱 I’m currently learning ReactJS and Wordpress
+- 🌱 I’m currently learning ReactJS
 - 📫 How to reach me rtl.latayan@gmail.com
 
 <!---
